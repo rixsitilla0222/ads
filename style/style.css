@@ -54,7 +54,7 @@ nav {
 }
 
 .header__btn {
-    background: #ff0000;
+    background: #00eaff;
     color: #fff;
     font-size: 12px;
     line-height: 14px;
@@ -93,7 +93,7 @@ nav {
 
 
 .products {
-    background: #181D28;
+    background: #ff0000;
     display: flex;
 }
 
